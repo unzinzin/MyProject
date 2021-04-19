@@ -1,0 +1,11 @@
+<resources>
+    <string name="name">Antoine Vallet 2021</string>
+    <string name="logo">logoapp</string>
+    <string name="app_name">LaZinzinerie</string>
+    <string name="titre">La Zinzinerie</string>
+    <string name="image">localisation</string>
+    <string name="melocaliser">Localisation</string>
+    <string name="paysage">paysage</string>
+    <string name="logo3">logo3</string>
+    <string name="historique">historique</string>
+</resources>
